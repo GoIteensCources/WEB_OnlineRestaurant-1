@@ -12,11 +12,11 @@ This web application simulates an online coffee shop where users can browse the 
 
 The application is built using Flask and popular Python libraries.
 
-📌 Features
+## 📌 Features
 
-Browse the menu with different categories of drinks and desserts.
+ - Browse the menu with different categories of drinks and desserts.
 
-Add items to the cart and update quantities.
+ - Add items to the cart and update quantities.
 
 Place orders with customer information.
 
